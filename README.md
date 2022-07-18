@@ -1,7 +1,9 @@
 <h1 align="center">Olá, sou o Paulo Henrique</h1>
 <h3 align="center">Um estudante de computação que adora programar</h3>
 
-- - Escrevi o artigo [Sistema para Coleta e Tratamento Textos Brasileiros sobre Polarização Política](https://doi.org/10.5753/sbsi.2021.15342)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo7676&label=Profile%20views&color=0e75b6&style=flat" alt="paulo7676" /> </p>
+
+- Escrevi o artigo [Sistema para Coleta e Tratamento Textos Brasileiros sobre Polarização Política](https://doi.org/10.5753/sbsi.2021.15342)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
