@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo7676&label=Profile%20views&color=0e75b6&style=flat" alt="paulo7676" /> </p>
 
+<img src="[img_girl.jpg](https://tenor.com/view/calcifer-fire-fireplace-howls-moving-castle-gif-24430942)" alt="Girl in a jacket" width="500" >
+
 - Escrevi o artigo [Sistema para Coleta e Tratamento Textos Brasileiros sobre Polarização Política](https://doi.org/10.5753/sbsi.2021.15342)
+- Aprendendendo novas linguagens
+- Aprimorando minhas habilidades
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
